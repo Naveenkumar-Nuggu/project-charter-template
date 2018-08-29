@@ -1,10 +1,10 @@
-# Project Charter: [Name here]
+# Project Charter: Hughes Fieldhouse Team A
 
-This is the project charter for the ___ project.
-This application will be delivered as a  ___ application. (e.g. web, iOS, Android)
+This is the project charter for the Hughes Fieldhouse project.
+This application will be delivered as a  Progressive web application. 
 
 - [View Published Version](https://profcase.github.io/project-charter-template)
-- [Source Code](https://github.com/profcase/project-charter-template)
+- [Source Code](https://github.com/Naveenkumar-Nuggu/project-charter-template)
 
 Update the links above and add team name, year, semester, course, or other important project information
 
@@ -12,7 +12,8 @@ Update the links above and add team name, year, semester, course, or other impor
 
 Clients include:
 
-- list each client and their email
+- Mr. Greg Hansen
+- - Email : ghansen@nwmissouri.edu
 
 ## Mentor
 
@@ -21,7 +22,7 @@ Mentors include:
 - Dr. Denise Case, dcase@nwmissouri.edu
 
 ## Project Purpose
-
+Create an app useful to visitors to our new field house.
 ## Benefits
 
 ## User Roles
