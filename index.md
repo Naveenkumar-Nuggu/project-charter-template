@@ -72,9 +72,9 @@ This team is organized as follows.
 | ---------------------- | --------- | ----------- |---------|
 | Team Lead              | Naveenkumar Nuggu|Santosh Sekhar Muchkur Bogarajula| Repo, intro, budget, schedule, risk, coordination   |
 | Architect              | Sirisha Devineni| Naveenkumar Nuggu| E-R diagram |
-| Data                   | Yashwant Reddy Bommineni|Sai Charan Gurudu| Sample data |
+| Data                   | Yashwanth Reddy Bommineni|Sai Charan Gurudu| Sample data |
 | UX                     |Santosh Sekhar Muchkur Bogarajula|Naveenkumar Nuggu| Sketches  |
-| Testing & Acceptance   |Yashwant Reddy Bommineni|Sai Charan Gurudu, Sirisha Devineni| Stories, acceptance criteria |
+| Testing & Acceptance   |Yashwanth Reddy Bommineni|Sai Charan Gurudu, Sirisha Devineni| Stories, acceptance criteria |
 
 ## Scope
 -All the project team members will make sure  all the client requirements are satisfied and brings the best outcome with all their efforts and the scope includes embedding the latest trends in the industry. We ensure that we devolop the project implementing the industry standard project management techniques like conducting the scrum and standup meetings.The main policy that we follow is receiving the clients feedback time to time and rectify the faults or implement the enhancements.
