@@ -37,7 +37,7 @@ This application is used by _3_ types of users.
 
 ## Stories by Role
 
-Administrator:
+**Administrator:**
 
    He / she will be responsible for doing the following activities:
    1. Administrator will manage the content like uploading the latest event images and videos and describing the events
@@ -46,7 +46,7 @@ Administrator:
    4.  He / she will be responsible for maintaing the user profiles and preserving the user data confidentially.
    5.  He / she will be responsible for resolving the user related issues.
 
-User:
+**User:**
 
   He / she will be responsible for the following activities:
    1. He / she will be accessing the data by logging using his credentials.
@@ -55,7 +55,7 @@ User:
    4. He / she can track his statistics like the number of events he had visited, etc.
    5. He / she can have the access to contact the administrator incase of any problem with his accounts.
 
-Public user (No Login Required):
+**Public user (No Login Required):**
 
    He / she will be responsible for the following activities with no login required:
    1. A public user can access the content published on the application with limitations.
