@@ -3,7 +3,7 @@
 This is the project charter for the Hughes Fieldhouse project.
 This application will be delivered as a  Progressive web application. 
 
-- [View Published Version](https://profcase.github.io/project-charter-template)
+- [View Published Version](https://naveenkumar-nuggu.github.io/project-charter-template/)
 - [Source Code](https://github.com/Naveenkumar-Nuggu/project-charter-template)
 
 Update the links above and add team name, year, semester, course, or other important project information
