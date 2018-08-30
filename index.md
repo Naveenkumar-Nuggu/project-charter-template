@@ -33,7 +33,6 @@ This application is used by _3_ types of users.
 
 1. Administrator
 2. User
-3. Public user(No Login required)
 
 ## Stories by Role
 
@@ -41,26 +40,17 @@ This application is used by _3_ types of users.
 
    As an administrator he will be responsible for doing the following activities:
    1. As an administrator he will manage the content like uploading the latest event images and videos and describing the events
-   2.  As an administrator he will be responsible for creating calender events that are going to happen in the next coming days.
-   3. As an administrator he will be responsible for notifying about the events to the subscribers through news letters or by sending email or by push notifications.
-   4.  As an administrator he will be responsible for maintaing the user profiles and preserving the user data confidentially.
-   5.  As an administrator he will be responsible for resolving the user related issues.
+   2. As an administrator he will be responsible for posting events retrieved from the client calender.
+   3. As an administrator he will be responsible for notifying about the events to the subscribers through news letters.
+   4. As an administrator he will be responsible for resolving the user related issues.
 
-**User:**
 
-  As an user he will be responsible for the following activities:
-   1. As an user he will be accessing the data by logging using his credentials.
-   2. As an user he can manage his priorities for receiving the notifications related to the events.
-   3. As an user he will be granted permission to edit his personal information like address and contact information.
-   4. As an user he can track his statistics like the number of events he had visited, etc.
-   5. As an user he can have the access to contact the administrator incase of any problem with his accounts.
+*User (No Login Required):**
 
-**Public user (No Login Required):**
-
-   As a public user will be responsible for the following activities with no login required:
+   As a public user will be able to see information for the following activitie:
    1. A public user can access the content published on the application with limitations.
-   2. A public user can also signup for the events by giving their email ID.
-   3. A public user can also watch the calender events.
+   2. A public user can also subscribe for the events by giving their email ID.
+   3. A public user can also check the calender events.
 
 Stories will be maintained in JIRA. 
 
@@ -71,10 +61,10 @@ This team is organized as follows.
 |    Role                | Primary   | Secondary   | Content |
 | ---------------------- | --------- | ----------- |---------|
 | Team Lead              |Naveenkumar Nuggu|Santosh Sekhar Muchkur Bogarajula| Repo, intro, budget, schedule, risk, coordination  |
-| Architect              |Naveenkumar Nuggu|| E-R diagram |
-| Data                   | Yashwant Reddy Bommineni|Sai Charan Gurudu| Sample data |
-| UX                     |Santosh Sekhar Muchkur Bogarajula|Sirisha Devineni| Sketches  |
-| Testing & Acceptance   |Sirisha Devineni|Sai Charan Gurudu,Yashwant Reddy Bommineni | Stories, acceptance criteria |
+| Architect              |Yashwanth Reddy Bommineni|| E-R diagram |
+| Data                   |Sirisha Devineni|Sai Charan Gurudu| Sample data |
+| UX                     |Santosh Sekhar Muchkur Bogarajula| Sketches  |
+| Testing & Acceptance   |Sai Charan Gurudu,Naveenkumar Nuggu|Yashwant Reddy Bommineni | Stories, acceptance criteria |
 
 
 ## Scope
@@ -181,7 +171,7 @@ The complete schedule is shown in the following Gantt chart:
 
 Present project budget table here. 
 
-- Budget must be by phase by team role.
+- Budget must be by phase, by team role.
 - For each role, assume each contributor will be working 10-12 billable hours per week for 15 weeks per semester
 - Use real-world billing rates. A company must bill you at twice your salary or more - practice proving your worth. 
 - Within the team, be specific on what each role will contribute to the budget and how this will be documented.
