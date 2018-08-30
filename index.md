@@ -26,7 +26,7 @@ Create an app useful to visitors to the Hughes new field house.
 - Reducing the overhead involved in using the app.
 - Able to retrive information with in 3-5 clicks.
 - Look and feels same on different devices.
-- 
+- Easy to manage the admin operations.
 ## User Roles
 
 This application is used by _3_ types of users.
