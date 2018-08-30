@@ -37,25 +37,25 @@ This application is used by _3_ types of users.
 
 ## Stories by Role
 
-- Administrator
+Administrator:
    He / she will be responsible for doing the following activities:
    1. Administrator will manage the content like uploading the latest event images and videos and describing the events
    2.  He / she will be responsible for creating calender events that are going to happen in the next coming days.
    3.  He / she will be responsible for notifying about the events to the subscribers through news letters or by sending email or by push notifications.
    4.  He / she will be responsible for maintaing the user profiles and preserving the user data confidentially.
    5.  He / she will be responsible for resolving the user related issues.
-- User
+User:
     He / she will be responsible for the following activities:
    1. He / she will be accessing the data by logging using his credentials.
    2. He / she can manage his priorities for receiving the notifications related to the events.
    3. He / she will be granted permission to edit his personal information like address and contact information.
    4. He / she can track his statistics like the number of events he had visited, etc.
    5. He / she can have the access to contact the administrator incase of any problem with his accounts.
-- Public user (No Login Required)
-    He / she will be responsible for the following activities with no login required:
-    1. A public user can access the content published on the application with limitations.
-    2. A public user can also signup for the events by giving their email ID.
-    3. A public user can also watch the calender events.
+Public user (No Login Required):
+     He / she will be responsible for the following activities with no login required:
+   1. A public user can access the content published on the application with limitations.
+   2. A public user can also signup for the events by giving their email ID.
+   3. A public user can also watch the calender events.
 
 Stories will be maintained in JIRA. 
 
