@@ -42,7 +42,7 @@ This application is used by _3_ types of users.
    As an administrator he will be responsible for doing the following activities:
    1. As an administrator he will manage the content like uploading the latest event images and videos and describing the events
    2.  As an administrator he will be responsible for creating calender events that are going to happen in the next coming days.
-   3.As an administrator he will be responsible for notifying about the events to the subscribers through news letters or by sending email or by push notifications.
+   3. As an administrator he will be responsible for notifying about the events to the subscribers through news letters or by sending email or by push notifications.
    4.  As an administrator he will be responsible for maintaing the user profiles and preserving the user data confidentially.
    5.  As an administrator he will be responsible for resolving the user related issues.
 
@@ -70,19 +70,12 @@ This team is organized as follows.
 
 |    Role                | Primary   | Secondary   | Content |
 | ---------------------- | --------- | ----------- |---------|
-<<<<<<< HEAD
-| Team Lead              |Naveenkumar Nuggu|Santosh Sekhar Muchkur Bogarajula| Repo, intro, budget, schedule, risk, coordination   |
+| Team Lead              |Naveenkumar Nuggu|Santosh Sekhar Muchkur Bogarajula| Repo, intro, budget, schedule, risk, coordination  |
 | Architect              |Naveenkumar Nuggu|| E-R diagram |
 | Data                   | Yashwant Reddy Bommineni|Sai Charan Gurudu| Sample data |
 | UX                     |Santosh Sekhar Muchkur Bogarajula|Sirisha Devineni| Sketches  |
 | Testing & Acceptance   |Sirisha Devineni|Sai Charan Gurudu,Yashwant Reddy Bommineni | Stories, acceptance criteria |
-=======
-| Team Lead              | Naveenkumar Nuggu|Santosh Sekhar Muchkur Bogarajula| Repo, intro, budget, schedule, risk, coordination   |
-| Architect              | Sirisha Devineni| Naveenkumar Nuggu| E-R diagram |
-| Data                   | Yashwanth Reddy Bommineni|Sai Charan Gurudu| Sample data |
-| UX                     |Santosh Sekhar Muchkur Bogarajula|Naveenkumar Nuggu| Sketches  |
-| Testing & Acceptance   |Yashwanth Reddy Bommineni|Sai Charan Gurudu, Sirisha Devineni| Stories, acceptance criteria |
->>>>>>> 14458323cc614570ce85dd825a2dfe71ff27617d
+
 
 ## Scope
 -All the project team members will make sure  all the client requirements are satisfied and brings the best outcome with all their efforts and the scope includes embedding the latest trends in the industry. We ensure that we devolop the project implementing the industry standard project management techniques like conducting the scrum and standup meetings.The main policy that we follow is receiving the clients feedback time to time and rectify the faults or implement the enhancements.
