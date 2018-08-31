@@ -21,7 +21,7 @@ Mentors include:
 - Dr. Denise Case, dcase@nwmissouri.edu
 
 ## Project Purpose
-Create an app useful to visitors to the Hughes new field house.
+Creating a progressive web application useful to visitors of the Hughes new field house.
 ## Benefits
 - Reducing the overhead involved in using the app.
 - Able to retrive information with in 3-5 clicks.
@@ -68,7 +68,7 @@ This team is organized as follows.
 
 
 ## Scope
-- All the project team members will make sure  all the client requirements are satisfied and brings the best outcome with all their efforts and the scope includes embedding the latest trends in the industry. We ensure that we devolop the project implementing the industry standard project management techniques like conducting the scrum and standup meetings.The main policy that we follow is receiving the clients feedback time to time and rectify the faults or implement the enhancements.
+- All the project team members will make sure  all the client requirements are satisfied and brings the best outcome with all their efforts  to the best extent and the scope includes embedding the latest trends in the industry. We ensure that we devolop the project implementing the industry standard project management techniques like conducting the scrum and standup meetings.The main policy that we follow is receiving the clients feedback time to time and rectify the faults or implement the enhancements.
 
 ### Phase 1 - Conception and initiation (Module 1)
 
@@ -87,9 +87,11 @@ This phase includes the development of:
 
 - Initial stories by role (link)
 - Initial acceptance criteria (link)
-- Initial E-R diagram (link)
-- Initial sample data (link)
-- Initial project sketches (link - images must be displayed)
+- [Initial E-R diagram](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/GDP%20draft.pdf)
+- [Initial sample data](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/sampledata.xlsx)
+Note: To access sample data please click on the view raw data option in the web page. Then you will get the sample data file downloaded.
+- [Initial sample data](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/Sketchers.png)
+- [RFP Document](https://github.com/profcase/rfp-fieldhouse/blob/master/index.md)
 - For each phase, initial scope, schedule, budget (included in this document)
 
 
