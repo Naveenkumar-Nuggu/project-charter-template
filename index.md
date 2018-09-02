@@ -29,7 +29,7 @@ Creating a progressive web application useful to visitors of the Hughes new fiel
 - Easy to manage the admin operations.
 ## User Roles
 
-This application is used by _3_ types of users.
+This application is used by _2_ types of users.
 
 1. Administrator
 2. User
@@ -146,6 +146,8 @@ Deliverables:
 ## Out of scope
 
 The following items are specifically not included in this scope of work:
+- If time permits, we will discuss with client to make the app very interactive by creating a live chat in the website.
+
 
 ## Schedule
 
