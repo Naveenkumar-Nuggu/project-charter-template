@@ -101,6 +101,7 @@ This phase includes the development of:
 2.	Will make sure all the client basic requirements are met.
 
 - [Initial E-R diagram](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/GDP%20draft.pdf)
+- [Initial Data management plan](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/Data%20Management%20Plan.md)
 - [Initial sample data](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/sampledata.pdf)
 - [Initial sample screens](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/Sketches.pdf)
 - [RFP Document](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/rfp-fieldhouse.pdf)
