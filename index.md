@@ -21,14 +21,11 @@ Mentors include:
 - Dr. Denise Case, dcase@nwmissouri.edu
 
 ## Project Team 
-
- ##    Name                           Contact Number    Email Address  
-
- - Naveenkumar Nuggu                    6605280847     S531373@nwmissouri.edu 
- - Santosh Sekhar Muchkur Bogarajula    8165856206     S531503@nwmissouri.edu 
- - Sirisha Devineni                     6827161869     S531367@nwmissouri.edu 
- - Yashwanth Reddy Bommineni            6605280882     S531519@nwmissouri.edu 
- - Sai Charan Gurudu                    6605280093     S531499@nwmissouri.edu 
+ - Naveenkumar Nuggu,S531373@nwmissouri.edu 
+ - Santosh Sekhar Muchkur Bogarajula,S531503@nwmissouri.edu 
+ - Sirisha Devineni,S531367@nwmissouri.edu 
+ - Yashwanth Reddy Bommineni,S531519@nwmissouri.edu 
+ - Sai Charan Gurudu,S531499@nwmissouri.edu 
 ## Project Purpose
 Client requires an informational application that can represent the Hughes Field House Digitally.
 ## Benefits
