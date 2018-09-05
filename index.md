@@ -105,7 +105,7 @@ This phase includes the development of:
 
 - [Initial E-R diagram](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/GDP%20draft.pdf)
 - [Initial sample data](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/sampledata.pdf)
-- [Initial sample screens]()
+- [Initial sample screens](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/Sketches.pdf)
 - [RFP Document](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/rfp-fieldhouse.pdf)
 
 **Phase - 1:**
