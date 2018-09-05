@@ -20,13 +20,23 @@ Mentors include:
 
 - Dr. Denise Case, dcase@nwmissouri.edu
 
+## Project Team 
+|    Name              | Contact Number   | Email Address  | 
+| ---------------------- | --------- | ----------- |
+| Naveenkumar Nuggu  |6605280847|S531373@nwmissouri.edu|
+|Santosh Sekhar Muchkur Bogarajula|8165856206|S531503@nwmissouri.edu|
+|Sirisha Devineni|6827161869|S531367@nwmissouri.edu|
+|Yashwant Reddy Bommineni|6605280882|S531519@nwmissouri.edu|
+|Sai Charan Gurudu|6605280093|S531499@nwmissouri.edu|
+
 ## Project Purpose
-Creating a progressive web application useful to visitors of the Hughes new field house.
+Client requires an informational application that can represent the Hughes Field House Digitally.
 ## Benefits
 - Reducing the overhead involved in using the app.
 - Able to retrive information with in 3-5 clicks.
 - Look and feels same on different devices.
 - Easy to manage the admin operations.
+- Easy to publish the upcoming events and notifying the users.
 ## User Roles
 
 This application is used by _2_ types of users.
@@ -45,14 +55,14 @@ This application is used by _2_ types of users.
    4. As an administrator he will be responsible for resolving the user related issues.
 
 
-*User (No Login Required):**
+**User (No Login Required):**
 
    As a public user will be able to see information for the following activitie:
    1. A public user can access the content published on the application with limitations.
    2. A public user can also subscribe for the events by giving their email ID.
    3. A public user can also check the calender events.
 
-Stories will be maintained in JIRA. 
+
 
 ## Team Organization
 
@@ -68,7 +78,9 @@ This team is organized as follows.
 
 
 ## Scope
-- All the project team members will make sure  all the client requirements are satisfied and brings the best outcome with all their efforts  to the best extent and the scope includes embedding the latest trends in the industry. We ensure that we devolop the project implementing the industry standard project management techniques like conducting the scrum and standup meetings.The main policy that we follow is receiving the clients feedback time to time and rectify the faults or implement the enhancements.
+1. All the project team members will make sure  all the client requirements are satisfied and brings the best outcome with all their efforts  to the best extent and the scope includes embedding the latest trends in the industry.
+2. We ensure that we devolop the project implementing the industry standard project management techniques like conducting the scrum and standup meetings.
+3. The main policy that we follow is receiving the clients feedback time to time and rectify the faults or implement the enhancements.
 
 ### Phase 1 - Conception and initiation (Module 1)
 
@@ -81,18 +93,23 @@ Deliverables:
 
 - Project charter
 - Supporting artifacts (as described in this document)
-- Contract (link - the contract will reference this charter and supporting documents)
+
+
 
 This phase includes the development of:
 
-- Initial stories by role (link)
-- Initial acceptance criteria (link)
+
+- [Initial acceptance criteria]()
 - [Initial E-R diagram](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/GDP%20draft.pdf)
 - [Initial sample data](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/sampledata.xlsx)
-Note: To access sample data please click on the view raw data option in the web page. Then you will get the sample data file downloaded.
-- [Initial sample data](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/Sketchers.png)
+- [Initial sample screens](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/Sketchers.png)
 - [RFP Document](https://github.com/profcase/rfp-fieldhouse/blob/master/index.md)
-- For each phase, initial scope, schedule, budget (included in this document)
+
+**Phase - 1:**
+   1. Initial Scope - meeting all the client basic requirements.
+   2. Budget - $7000.
+   3. Schedule - Project initial version will be delivered for review by 09/30/2018. Based on the review the final application will be delivered by 10/5/2018.
+   4. Risk - Adding the links to clients event management tool "Astra" and linking the outlook account.
 
 
 ### Phase 2 - Definition and planning (Module 2 and 3)
