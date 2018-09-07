@@ -6,7 +6,7 @@ This application will be delivered as a  Progressive web application.
 - [View Published Version](https://naveenkumar-nuggu.github.io/project-charter-template/)
 - [Source Code](https://github.com/Naveenkumar-Nuggu/project-charter-template)
 
-Update the links above and add team name, year, semester, course, or other important project information
+
 
 ## Client
 
@@ -58,6 +58,8 @@ This application is used by _2_ types of users.
    1. A public user can access the content published on the application with limitations.
    2. A public user can also subscribe for the events by giving their email ID.
    3. A public user can also check the calender events.
+   4. A public user can request for information like booking the training rooms etc via a request form which will be delivered to the 
+   Hughes Field House admin team through an email.
 
 
 
@@ -100,16 +102,14 @@ This phase includes the development of:
 1.	Countdown to the grand opening of the facility.
 2.	Will make sure all the client basic requirements are met.
 
-- [Initial E-R diagram](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/GDP%20draft.pdf)
-- [Initial Data management plan](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/Data%20Management%20Plan.md)
-- [Initial sample data](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/sampledata.pdf)
 - [Initial sample screens](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/Sketches.pdf)
 - [RFP Document](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/rfp-fieldhouse.pdf)
 
 **Phase - 1:**
    1. Initial Scope - meeting all the client basic requirements.
-   2. Budget - $7000.
-   3. Schedule - Project initial version will be delivered for review by 09/30/2018. Based on the review the final application will be delivered by 10/5/2018.
+   2. Budget :
+      15hours/week* 10 weeks * $70/hour  = $ 10,500.
+   3. Schedule - Project initial version will be delivered for review by 10/6/2018. Based on the review the first version of the application will be delivered by 10/12/2018.
    4. Risk - Adding the links to clients event management tool "Astra" and linking the outlook account.
 
 
