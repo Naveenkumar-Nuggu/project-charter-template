@@ -104,6 +104,7 @@ This phase includes the development of:
 
 - [Initial sample screens](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/Sketches%20.pdf)
 - [RFP Document](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/rfp-fieldhouse.pdf)
+- [Initial workflow diagram](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/workflow.png)
 
 **Phase - 1:**
    1. Initial Scope - meeting all the client basic requirements.
