@@ -106,6 +106,9 @@ This phase includes the development of:
 - [RFP Document](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/rfp-fieldhouse.pdf)
 - [Initial workflow diagram](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/workflow.png)
 - [Initial static home page ](https://devinenisirisha.github.io/)
+- [Risk Analysis Chart](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/Risk%20Analysis%20Chart.png)
+- [UseCase Diagram](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/UseCase%20Diagram.png)
+- [Sketch 2a (About page)](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/Sketch%202a.png)
 
 **Phase - 1:**
    1. Initial Scope - meeting all the client basic requirements.
