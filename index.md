@@ -211,6 +211,22 @@ The following have been identified as risks that could contribute to not making 
 
 ## Acceptance criteria
 
-- For each story, enumerate and clearly describe the acceptance criteria. 
-- Be specific - your client may have a very different definition of vague words. 
+**Administrator:**
+
+   As an administrator he must be able to do the following activities:
+   1. As an administrator he must be able to manage the content like uploading the latest event images and videos and describing the events
+   2. As an administrator he must be to post events retrieved from the client calender.
+   3. As an administrator he must be able to notify about the events to the subscribers through news letters.
+   4. As an administrator he must be able to receive the information from the requested form used for booking the training rooms etc.
+   
+
+**User (No Login Required):**
+
+   As a public user must be able to see information for the following activities:
+   1. A public user must be able to access the content published on the application with limitations.
+   2. A public user must be able to also subscribe for the events by giving their email ID.
+   3. A public user must be able to also check the calender events.
+   4. A public user must be able to request for information like booking the training rooms etc via a request form which will be delivered to the 
+   Hughes Field House admin team through an email.
+
 
