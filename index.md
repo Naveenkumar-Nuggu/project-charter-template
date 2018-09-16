@@ -50,6 +50,7 @@ This application is used by _2_ types of users.
    2. As an administrator he will be responsible for posting events retrieved from the client calender.
    3. As an administrator he will be responsible for notifying about the events to the subscribers through news letters.
    4. As an administrator he will be responsible for resolving the user related issues.
+   5. As an administrator he will update the links in the today's links so that the users can view.
 
 
 **User (No Login Required):**
@@ -60,6 +61,9 @@ This application is used by _2_ types of users.
    3. A public user can also check the calender events.
    4. A public user can request for information like booking the training rooms etc via a request form which will be delivered to the 
    Hughes Field House admin team through an email.
+   5. A public user can click on the map so that they can be redirected to the google maps.
+   6. A public user can click on the today's events so that they will be redirected to the events page.
+
 
 
 
