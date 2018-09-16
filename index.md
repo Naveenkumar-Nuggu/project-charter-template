@@ -174,6 +174,8 @@ Deliverables:
 
 The following items are specifically not included in this scope of work:
 - If time permits, we will discuss with client to make the app very interactive by creating a live chat in the website.
+- The events in the today's events section automatically refreshes when the event's date is after the current date.
+- The events sync directly into today's events section using calender.
 
 
 ## Schedule
