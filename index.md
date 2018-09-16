@@ -101,7 +101,7 @@ This phase includes the development of:
 - Initial Acceptance Criteria:
 1.	Countdown to the grand opening of the facility.
 2.	Will make sure all the client basic requirements are met.
-
+- [Intial sample data](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/sampledataforER.pdf)
 - [Initial sample screens](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/Sketches%20.pdf)
 - [RFP Document](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/rfp-fieldhouse.pdf)
 - [Initial workflow diagram](https://github.com/Naveenkumar-Nuggu/project-charter-template/blob/master/workflow.png)
